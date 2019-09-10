@@ -15,4 +15,4 @@ console.log(valores.pop())
 delete valores[0]// tira um atributo do valores
 console.log(valores)
 
-console.log(typeof valores)// tipo da varialvel
+console.log(typeof valores)// tipo da varialvel 
